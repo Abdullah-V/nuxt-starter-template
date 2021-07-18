@@ -1,0 +1,16 @@
+html {
+  --primary: #106ee3;
+  --secondary: #034aa1;
+}
+
+/* html.dark-mode {
+  --primary-background: #111827;
+  --secondary-background: #1f2937;
+  --text: white;
+}
+
+html.light-mode {
+  --primary-background: #ffffff;
+  --secondary-background: #efefef;
+  --text: black;
+} */
